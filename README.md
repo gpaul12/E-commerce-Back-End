@@ -18,10 +18,8 @@ This E-Commerce backend has the API routes that point to each of the standard [C
   - [Table of contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Contributing](#contributing)
   - [Demo Video](#demonstration-video)
   - [Built With](#built-with)
-  - [License](#license)
 
 ---
 
