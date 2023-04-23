@@ -26,14 +26,14 @@ This E-Commerce backend has the API routes that point to each of the standard [C
 Start with cloning this repo on your local machine:
 
 ```sh
-$ git clone https://github.com/lukecp5/e-commerce-backend.git
+$ git clone https://github.com/gpaul12/E-commerce-Back-End.git
 $ cd e-commerce-backend
 ```
 
 To install and set up the application, run:
 
 ```sh
-$ npm install employee-tracker
+$ npm install
 ```
 
 You will also need to place a .env file in the root directory of the project, in order to connect to your MySQL database. Here's an example:
